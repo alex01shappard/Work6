@@ -1,0 +1,86 @@
+[
+    {
+        "Column":"id",
+        "Memory Usage (bytes)":151288959,
+        "Memory Usage (%)":15.5524619603,
+        "Data Type":"object"
+    },
+    {
+        "Column":"name",
+        "Memory Usage (bytes)":92738603,
+        "Memory Usage (%)":9.5335020146,
+        "Data Type":"category"
+    },
+    {
+        "Column":"year",
+        "Memory Usage (bytes)":7961444,
+        "Memory Usage (%)":0.8184341791,
+        "Data Type":"category"
+    },
+    {
+        "Column":"rating",
+        "Memory Usage (bytes)":10363728,
+        "Memory Usage (%)":1.0653882911,
+        "Data Type":"float32"
+    },
+    {
+        "Column":"certificate",
+        "Memory Usage (bytes)":2645749,
+        "Memory Usage (%)":0.2719822448,
+        "Data Type":"category"
+    },
+    {
+        "Column":"duration",
+        "Memory Usage (bytes)":5686250,
+        "Memory Usage (%)":0.5845448829,
+        "Data Type":"category"
+    },
+    {
+        "Column":"genre",
+        "Memory Usage (bytes)":5635389,
+        "Memory Usage (%)":0.5793163866,
+        "Data Type":"category"
+    },
+    {
+        "Column":"votes",
+        "Memory Usage (bytes)":12954660,
+        "Memory Usage (%)":1.3317353638,
+        "Data Type":"Int32"
+    },
+    {
+        "Column":"gross_income",
+        "Memory Usage (bytes)":10363728,
+        "Memory Usage (%)":1.0653882911,
+        "Data Type":"float32"
+    },
+    {
+        "Column":"directors_id",
+        "Memory Usage (bytes)":61278694,
+        "Memory Usage (%)":6.2994323162,
+        "Data Type":"category"
+    },
+    {
+        "Column":"directors_name",
+        "Memory Usage (bytes)":62353835,
+        "Memory Usage (%)":6.4099565053,
+        "Data Type":"category"
+    },
+    {
+        "Column":"stars_id",
+        "Memory Usage (bytes)":134542076,
+        "Memory Usage (%)":13.8308871505,
+        "Data Type":"category"
+    },
+    {
+        "Column":"stars_name",
+        "Memory Usage (bytes)":152947649,
+        "Memory Usage (%)":15.7229748206,
+        "Data Type":"category"
+    },
+    {
+        "Column":"description",
+        "Memory Usage (bytes)":262004573,
+        "Memory Usage (%)":26.9339955932,
+        "Data Type":"category"
+    }
+]
